@@ -6,4 +6,4 @@
 ![aaPanel](https://img.shields.io/badge/aaPanel-darkgreen?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-orange?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
