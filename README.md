@@ -15,5 +15,6 @@
 ![aaPanel](https://img.shields.io/badge/aaPanel-darkgreen?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-orange?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 
