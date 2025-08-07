@@ -19,4 +19,4 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter4-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-[![Zed](https://img.shields.io/badge/Zed-1C1C1C?style=for-the-badge&logo=zedindustries&logoColor=white)](#)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
