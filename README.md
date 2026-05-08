@@ -1,5 +1,5 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=aanglll&label=༒︎&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=aanglll&style=for-the-badge" />
   <a href="https://discord.com/users/870655153685020714">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
