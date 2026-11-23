@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2,157 hrs 56 mins
+Total Time: 2,164 hrs 50 mins
 
-Unity                 1,120 hrs 31 mins     >>>>>>>>>>>>>------------   51.58 %
-PHP                   533 hrs 45 mins       >>>>>>-------------------   24.57 %
-C#                    204 hrs 55 mins       >>-----------------------   09.43 %
-JavaScript            70 hrs 56 mins        >------------------------   03.27 %
-Blade Template        28 hrs 38 mins        -------------------------   01.32 %
-Bash                  23 hrs 6 mins         -------------------------   01.06 %
-Python                22 hrs 56 mins        -------------------------   01.06 %
+Unity                 1,126 hrs 27 mins     >>>>>>>>>>>>>------------   51.69 %
+PHP                   533 hrs 45 mins       >>>>>>-------------------   24.49 %
+C#                    205 hrs 3 mins        >>-----------------------   09.41 %
+JavaScript            70 hrs 58 mins        >------------------------   03.26 %
+Blade Template        28 hrs 38 mins        -------------------------   01.31 %
+Bash                  23 hrs 12 mins        -------------------------   01.06 %
+Python                22 hrs 56 mins        -------------------------   01.05 %
 ```
 
 <!--END_SECTION:waka-->
